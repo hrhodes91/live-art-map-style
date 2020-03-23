@@ -1,2 +1,0 @@
-# live-art-map-style
-
